@@ -1,0 +1,2 @@
+ALTER TABLE familydoctor
+ADD CHECK(CPSONumber > 10000000 AND CPSONumber < 50000000)
