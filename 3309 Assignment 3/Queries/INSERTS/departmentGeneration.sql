@@ -5,8 +5,10 @@ INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (5,"Gynae
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (6,"Ear nose and throat",58);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (7,"Nephrology",57);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (8,"Microbiology",62);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (9,"Ear nose and throat",70);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (10,"Microbiology",88);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (11,"Orthopaedics",94);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (12,"Orthopaedics",32);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (13,"Neurology",14);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (14,"Maternity departments",83);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (15,"Maternity departments",59);
@@ -23,6 +25,7 @@ INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (25,"Haem
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (26,"Maternity departments",18);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (27,"Anaesthetics",44);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (28,"Occupational therapy",34);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (29,"Anaesthetics",40);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (30,"Anaesthetics",11);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (31,"Nephrology",20);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (32,"Critical care",59);
@@ -35,6 +38,7 @@ INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (38,"Card
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (39,"Gynaecology",30);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (40,"Gynaecology",5);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (41,"Nutrition and dietetics",24);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (42,"Nutrition and dietetics",25);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (43,"Breast screening",8);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (44,"Critical care",34);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (45,"Cardiology",14);
@@ -49,6 +53,8 @@ INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (53,"Orth
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (54,"Critical care",35);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (55,"Ophthalmology",35);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (56,"Gastroenterology",6);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (57,"Gastroenterology",10);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (58,"Gastroenterology",31);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (59,"Nutrition and dietetics",1);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (60,"Nephrology",18);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (61,"Critical care",32);
@@ -57,6 +63,7 @@ INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (63,"Neph
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (64,"Diagnostic imaging",100);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (65,"Orthopaedics",86);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (66,"Ophthalmology",66);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (67,"Neurology",75);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (68,"Neurology",78);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (69,"Anaesthetics",14);
 INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (70,"Gynaecology",52);
@@ -1090,6 +1097,14 @@ insert into department (departmentID, departmentName, hospitalID) values (1097, 
 insert into department (departmentID, departmentName, hospitalID) values (1098, 'Accident and Emergency', 998);
 insert into department (departmentID, departmentName, hospitalID) values (1099, 'Accident and Emergency', 999);
 insert into department (departmentID, departmentName, hospitalID) values (1100, 'Accident and Emergency', 1000);
-
-
-
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1102,"Diagnostic imaging",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1103,"Neonatal unit",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1104,"Gynaecology",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1105,"Ear nose and throat",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1106,"Nephrology",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1107,"Microbiology",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1108,"Critical care",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1109,"Maternity",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1110,"Nutrition",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1111,"Surgery",1);
+INSERT INTO department (departmentID,departmentName,hospitalID) VALUES (1112,"Anaesthetics",1);
