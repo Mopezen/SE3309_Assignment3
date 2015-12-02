@@ -1,0 +1,11 @@
+﻿Added files
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   3309 Assignment 3/Queries/INSERTS/ThreeInserts.sql
+#	new file:   3309 Assignment 3/Queries/UPDATES/updateScripts.sql
+#
+
