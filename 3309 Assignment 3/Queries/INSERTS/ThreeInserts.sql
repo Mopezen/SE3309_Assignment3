@@ -1,6 +1,6 @@
-INSERT INTO hospital VALUES('1','United Medical Center','4847 3rd Street 
+INSERT INTO hospital VALUES(100000,'United Medical Center','4147 3rd Street 
 Champaign, IL 61821',FLOOR(RAND() * (400 - 300 + 1)) + 300);
-INSERT INTO medicalstaff VALUES('Bob','Ross',1,FLOOR(RAND()*(99999998-50000001 + 1)) + 50000001,'613-555-0142',
+INSERT INTO medicalstaff VALUES('Bob','Ross',10000,FLOOR(RAND()*(99999998-50000001 + 1)) + 50000001,'613-555-0142',
 	(SELECT departmentID
     FROM department
     WHERE departmentName = 'Accident and Emergency'
