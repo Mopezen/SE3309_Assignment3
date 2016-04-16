@@ -1,3 +1,4 @@
+insert into medicalStaff (fName, lName, employeeID, CPSONumber, phoneNumber, departmentID, specialization, qualification, hospitalID) values ('Catherine', 'Harris', 1, 100321, '7-(484)200-5494', (SELECT departmentID FROM department WHERE hospitalID =  1 ORDER BY RAND() LIMIT 1), 'lisinopril', null, 1);
 insert into medicalstaff (fName, lName, employeeID, CPSONumber, phoneNumber, departmentID, specialization, qualification,hospitalID) values ('Douglas', 'Hernandez', 1, 78131852, 7302453659, 81, 'Neurology', 'Masters',1);
 insert into medicalstaff (fName, lName, employeeID, CPSONumber, phoneNumber, departmentID, specialization, qualification,hospitalID) values ('Shawn', 'Myers', 2, 70360140, 3806117654, 1, 'Orthopaedics', 'Ph.D',1);
 insert into medicalstaff (fName, lName, employeeID, CPSONumber, phoneNumber, departmentID, specialization, qualification,hospitalID) values ('Clarence', 'Thompson', 3, 59635115, 4488966505, 30, 'Orthopaedics', 'Masters',1);
